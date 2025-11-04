@@ -7,6 +7,8 @@
 
 与传统爬虫不同，本项目采用“策展优先”(Curation-First) 的策略，通过 Google 可编程搜索引擎 (PSE) 对一个**手动策展的“权威网站白名单”**进行定向、深度的信息搜集，从源头上确保数据的高质量和高相关性。
 
+Google 可编程搜索引擎 (PSE)试用：https://cse.google.com/cse?cx=06a1cc7858e024889
+
 - **中文简介:** 本项目搜集公开的人工智能艺术信息，用于构建一个专门的数据库与 RAG。
 - **English:** This project collects public web data on AI art to build a specialized database and RAG.
 
