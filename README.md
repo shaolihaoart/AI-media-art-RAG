@@ -54,11 +54,13 @@ Google 可编程搜索引擎 (PSE)试用：https://cse.google.com/cse?cx=06a1cc7
 * **批次 5 (技术流程):** `"Computer vision"`, `"Big data"`, `"Training"`, `"Pattern recognition"`
 * ... (以此类推) ...
 
-### 阶段四：处理与应用 (Processing & Application) [未来工作]
+### 阶段四：处理与应用 (Processing & Application) [正在进行]
 
 1.  **抓取 (Scrape):** 通过 API 获取所有查询结果的 URL 列表，并抓取这些页面的文本内容。
 2.  **提取 (Extract):** 使用 NLP 和 LLM 模型从文本中提取艺术家、作品、展览等结构化信息。
 3.  **入库 (Ingest):** 将结构化数据存入元数据库，将纯文本存入 RAG 的向量知识库。
+
+数据库试用：124.223.92.253
 
 ## 4. 项目结构 (Project Structure)
 
